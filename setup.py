@@ -7,4 +7,5 @@ setup(
     install_requires=[
         "autopep8",
     ],
+    packages=find_packages(),
 )
